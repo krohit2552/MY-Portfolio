@@ -105,7 +105,7 @@ import {
   export const socialLinks = [
     { name: 'GitHub', iconUrl: github, link: 'https://github.com/krohit2552' },
     { name: 'LinkedIn', iconUrl: linkedin, link: 'https://www.linkedin.com/in/rohit-kumar-407b30215/' },
-    { name: 'Resume', iconUrl: resume, link: '' },
+    { name: 'Resume', iconUrl: resume, link: 'https://drive.google.com/file/d/11RT-olWLnAGVv_U-DSj2PM7bV3epuwMT/view?usp=sharing' },
   ];
   
   export const projects = [
