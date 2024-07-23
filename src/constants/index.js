@@ -109,21 +109,14 @@ import {
   ];
   
   export const projects = [
-    {
-      iconUrl: taskweb,
-      theme: 'btn-back bg-cyan-600',
-      name: 'TaskMaster Pro',
-      description: 'Integrated Angular and Flask to develop a robust task management system with Angular Material for dynamic UI components. Utilized PostgreSQL and SQLAlchemy for efficient data storage and management, optimizing backend APIs for streamlined task handling and achieving enhanced system performance.',
-      link: 'https://github.com/krohit2552/TaskWebApp-Fronted',
-      linkcc: 'https://taskwebapp.netlify.app',
-    },
+    
     {
       iconUrl: prtfolio,
       theme: 'btn-back bg-purple-700',
       name: 'Portfolio',
       description: 'Created an interactive 3D animation website using Three.js, showcasing my personal projects. Implemented adaptive scaling and positioning techniques for seamless user experience across devices. Introduced touch rotation for 3D elements on smaller devices and integrated EmailJS for contact functionality.',
       link: 'https://github.com/krohit2552/MY-Portfolio',
-      linkcc: 'https://abhishek-ashish-portfolio.netlify.app',
+      linkcc: 'https://rohit2552portfolioproject.netlify.app',
     },
     {
       iconUrl: algo_vis,
@@ -131,7 +124,7 @@ import {
       name: 'Algorithm Visualizer',
       description: 'React-based visualization platform for searching, sorting, and scheduling algorithms with a Node.js backend for user feedback via Nodemailer. Utilizes tsParticles for customizable JavaScript particle effects in the background, enhancing UI aesthetics.',
       link: 'https://github.com/krohit2552/MY-ALGO-VIS',
-      linkcc: 'https://github.com/krohit2552/MY-ALGO-VIS',
+      linkcc: 'https://algo-vizzz.netlify.app/',
     },
     {
       iconUrl: face_detection,
@@ -140,6 +133,14 @@ import {
       description: 'Developed an advanced face detection system for identifying and recognizing sports personalities in image formats, based on a combination of attributes. Ensemble models namely Support Vector Machine (SVM) and k-fold Validation and got an accuracy of 97%. Technology Stack: Python, OpenCV, Flask, JavaScript.',
       link: 'https://github.com/krohit2552/Sport_Person_Face_detection',
       linkcc: 'https://github.com/krohit2552/Sport_Person_Face_detection/blob/main/face_dictation.pdf',
+    },
+    {
+      iconUrl: taskweb,
+      theme: 'btn-back bg-cyan-600',
+      name: 'TaskMaster Pro',
+      description: 'Integrated Angular and Flask to develop a robust task management system with Angular Material for dynamic UI components. Utilized PostgreSQL and SQLAlchemy for efficient data storage and management, optimizing backend APIs for streamlined task handling and achieving enhanced system performance.',
+      link: 'https://github.com/krohit2552/TaskWebApp-Fronted',
+      linkcc: 'https://taskwebapp.netlify.app',
     },
     {
       iconUrl: CO2_prediction,
