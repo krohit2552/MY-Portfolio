@@ -74,6 +74,17 @@ import {
   
   export const educations = [
     {
+      title: 'Master of Technology in Agile software Engineering',
+      company_name: 'Maulana Azad National Institute of Technology',
+      icon: rgipt,
+       iconBg: "#accbe1",
+      date: " 2024 -  2026",
+      points: [
+        "A Agile software Engineering student at Maulana Azad National Institute of Technology.",
+        "Coursework:DevOps tool and Chain,Software Architecture and Design,Cloud Computing and Virtualization and Machine learning.",
+      ],
+    },
+    {
       title: 'Bachelor of Technology in Computer Science Engineering',
       company_name: 'Rajiv Gandhi Institute Of Petroleum Technology',
       icon: rgipt,
