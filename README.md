@@ -35,4 +35,5 @@ Currently, two official plugins are available:
 
 
 
-git practice
+git practice 
+git diff and git status
