@@ -31,6 +31,7 @@ Currently, two official plugins are available:
    ```bash
    npm run dev
 4. **Access the application in your browser:**
+   https://rohit2552portfolioproject.netlify.app/
    http://localhost:5173
 
 
