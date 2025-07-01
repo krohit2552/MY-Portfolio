@@ -18,6 +18,8 @@ Currently, two official plugins are available:
  • Implemented adaptive scaling and positioning techniques for seamless user experience across devices.
  • Introduced touch rotation for 3D elements on smaller devices and integrated EmailJS for contact functionality
  • Technologies Used: Html, TailwindCSS, Js, React, Node.js, three.js, Vite
+ ![image](https://github.com/user-attachments/assets/657b2c4c-2814-4f38-b403-a96092f52519)
+
 
 ## Setup Instructions
 1. **Clone the repository**
